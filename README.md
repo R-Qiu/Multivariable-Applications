@@ -1,1 +1,1 @@
-# Multivariable-Applications
+# Multivariable Applications
